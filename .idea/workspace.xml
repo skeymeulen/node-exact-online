@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667999cd-cdbc-4f2e-830e-b855024e92fe" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/exactonline.js" afterPath="$PROJECT_DIR$/lib/exactonline.js" />
     </list>
     <ignored path="node-exact-online.iws" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="exactonline.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/exactonline.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="109" column="4" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
+            <state relative-caret-position="3277">
+              <caret line="113" column="64" selection-start-line="113" selection-start-column="64" selection-end-line="113" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -160,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460033086725</updated>
-      <workItem from="1460033088029" duration="206000" />
+      <workItem from="1460033088029" duration="968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206000" />
+    <option name="totallyTimeSpent" value="968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
@@ -200,8 +201,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/exactonline.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="109" column="4" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
+        <state relative-caret-position="3277">
+          <caret line="113" column="64" selection-start-line="113" selection-start-column="64" selection-end-line="113" selection-end-column="64" />
           <folding />
         </state>
       </provider>
